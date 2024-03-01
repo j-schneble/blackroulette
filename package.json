@@ -1,0 +1,26 @@
+{
+  "name": "blackroulette-theme",
+  "displayName": "Blackroulette",
+  "description": "A dark theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "jackschneble",
+  "icon":"logo.png",
+  "author": {
+    "name": "Jack Schneble"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackroulette",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blackroulette-color-theme.json"
+      }
+    ]
+  }
+}
