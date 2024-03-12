@@ -3,7 +3,7 @@
   "displayName": "Blackroulette",
   "description": "A dark theme for VS Code",
   "version": "0.0.1",
-  "publisher": "jackschneble",
+  "publisher": "jschneble",
   "icon":"logo.png",
   "author": {
     "name": "Jack Schneble"
