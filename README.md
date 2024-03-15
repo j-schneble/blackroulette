@@ -1,16 +1,18 @@
+<p align="center">
+  <img width="100" src="https://github.com/j-schneble/blackroulette-site/assets/60337134/6285a53b-6539-47fd-a040-258aebccddcc" />
+</p>
 
 <h1 align="center">
-  BlackRoulette Theme for VS Code
+ BlackRoulette 
 </h1>
 <p align="center">
   A minimal, dark theme for VS Code
 </p>
-<p align="center">
 
-</p>
+<img width="1440" alt="Screenshot 2024-03-15 at 1 09 38 PM" src="https://github.com/j-schneble/blackroulette-site/assets/60337134/4b82ccc0-9e96-46e8-b57e-44f46a9b585d">
 
-![brsite](https://github.com/j-schneble/blackroulette/assets/60337134/57b0b1d6-4841-4dad-acda-2bd15a6104b3)
 
+<img width="1311" alt="br-theme-new" src="https://github.com/j-schneble/blackroulette-site/assets/60337134/462750b8-186b-41f3-aa88-422970584d5c">
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
