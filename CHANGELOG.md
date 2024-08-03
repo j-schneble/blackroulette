@@ -7,4 +7,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+### Added 
+
 - v0.0.2
+
+### Changed 
+
+- The overall Midnight purple hue colorway changed to an eye friendly dark grey.
+- Terminal additions, including font and icons.
