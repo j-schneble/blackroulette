@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
- BlackRoulette 
+ BlackRoulette v0.0.2
 </h1>
 <p align="center">
-  A minimal, dark theme for VS Code
+  A minimal, dark theme for VS Code. 
 </p>
 
 <img width="1440" alt="Screenshot 2024-03-15 at 1 09 38 PM" src="https://github.com/j-schneble/blackroulette-site/assets/60337134/4b82ccc0-9e96-46e8-b57e-44f46a9b585d">

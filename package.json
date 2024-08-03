@@ -2,7 +2,7 @@
   "name": "blackroulette-theme",
   "displayName": "Blackroulette",
   "description": "A dark theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "j-schneble",
   "icon":"logo.png",
   "author": {
