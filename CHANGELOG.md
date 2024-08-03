@@ -10,7 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Added 
 
-- v0.0.2
+- v0.2.0
 
 ### Changed 
 

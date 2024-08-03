@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
- BlackRoulette v0.0.2
+ BlackRoulette v0.2.0
 </h1>
 <p align="center">
   A minimal, dark theme for VS Code. 
